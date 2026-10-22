@@ -1,4 +1,4 @@
-# Cześć! 👋 Jestem Zuzanna Grzymkowska
+# Dzień dobry  👋 nazywam się Zuzanna Grzymkowska
 Interesuję się programowaniem, technologiami i tworzeniem rozwiązań technicznych. Biorę udział w programie **Dziewczyny w Grze**! 🚀
 
 ## 🛠️ Technologie, których używam
