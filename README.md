@@ -1,4 +1,4 @@
-# Dzień dobry  👋 nazywam się Zuzanna Grzymkowska
+# Witam nazywam się Zuzanna Grzymkowska
 Interesuję się programowaniem, technologiami i tworzeniem rozwiązań technicznych. Biorę udział w programie **Dziewczyny w Grze**! 🚀
 
 ## 🛠️ Technologie, których używam
@@ -12,7 +12,7 @@ Interesuję się programowaniem, technologiami i tworzeniem rozwiązań technicz
 ### 1. Gra generująca grafiki marblingowe (Internal Assessment – CS IB)
 * **Opis:** Aplikacja stworzona w Pythonie jako projekt zaliczeniowy z informatyki IB. Generuje cyfrowe grafiki inspirowane tradycyjną techniką barwienia papieru na wodzie (marbling).
 * **Technologie:** Python
-* **Link:** [Kod na GitHubie](tutaj_wklej_link_do_repo_ib)
+* **
 
 ### 2. Strona internetowa dla firmy
 * **Opis:** Komercyjny projekt strony WWW stworzony od podstaw. Proces obejmował zaprojektowanie makiety i layoutu w programie Figma oraz zakodowanie całości.
